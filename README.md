@@ -1,6 +1,6 @@
 ![Software Engineer](https://scontent.fdac20-1.fna.fbcdn.net/v/t1.6435-9/36998502_2376984715861523_4038969532713271296_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=19026a&_nc_ohc=oDND3p7XUjwAX89QSQG&_nc_ht=scontent.fdac20-1.fna&oh=f54f8c5df8a4d8da77d5fe436dba8ef2&oe=6128A02B)
 
-# Hi there 👋, Sazzad Hossain Nirjhor
+# Sazzad Hossain Nirjhor
 
 I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Laravel & WordPress. I also enjoy Designing with Html & SCSS.
 
