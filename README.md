@@ -2,7 +2,7 @@
 
 # Sazzad Hossain Nirjhor
 
-I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Laravel & WordPress. I also enjoy Designing with Html & SCSS.
+I'm Nirjhor from Bangladesh, I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Laravel & WordPress. I also enjoy Designing with Html & SCSS.
 
 ##Skills & Experience:
 
