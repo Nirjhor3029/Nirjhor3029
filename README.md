@@ -1,4 +1,4 @@
-![Software Engineer](https://scontent.fdac20-1.fna.fbcdn.net/v/t1.6435-9/36998502_2376984715861523_4038969532713271296_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=19026a&_nc_ohc=JafSlpsNyAgAX_JBs8L&_nc_ht=scontent.fdac20-1.fna&oh=3b32495ee420177552b9bc59ca7cec94&oe=6158162B)
+![Software Engineer]
 
 # Sazzad Hossain Nirjhor
 
@@ -44,4 +44,4 @@ I'm Nirjhor from Bangladesh, I do content on Design and Development. I really en
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirjhor3029&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Profile views](https://gpvc.arturio.dev/Nirjhor3029)  
+
