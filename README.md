@@ -12,7 +12,7 @@ I'm Nirjhor from Bangladesh, I do content on Design and Development. I really en
 * 💻 HTML, CSS & JS
  
 
-- 🔭 I’m currently working on Nvisio Solutions 
+- 🔭 I’m currently working on Digitalhive
 - 🌱 I’m currently learning **MEARN** Stack 
 - 📫 How to reach me: sazzad3029@gmail.com 
 
