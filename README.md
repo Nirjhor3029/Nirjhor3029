@@ -31,7 +31,7 @@ I'm Nirjhor from Bangladesh, I do content on Design and Development. I really en
 <div> 
   <a href="https://www.youtube.com/channel/UC526pPhntlpo5qzLTtOo8bQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/nirjhor003" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/nirjhor003/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/nirjhor003/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:sazzad3029@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/shnirjhor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
@@ -43,6 +43,8 @@ I'm Nirjhor from Bangladesh, I do content on Design and Development. I really en
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nirjhor3029&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirjhor3029&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirjhor3029&layout=compact&langs_count=7&theme=dracula"/>
 
 
 <div>
