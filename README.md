@@ -37,24 +37,9 @@ I'm Nirjhor from Bangladesh, I do content on Design and Development. I really en
 
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nirjhor3029&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirjhor3029&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-</div>
-
-
-#<div>
- # <a href="https://github.com/Nirjhor3029">
- # <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nirjhor3029&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- # <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirjhor3029&layout=compact&langs_count=7&theme=dracula"/>
-#</div>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirjhor3029&layout=compact&langs_count=7&theme=dracula"/>
-
 
 <div>
 ## 🧠 Skill Levels
-
 ![PHP](https://img.shields.io/badge/PHP-80%25-777BB4?style=for-the-badge&logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-80%25-FF2D20?style=for-the-badge&logo=laravel)
 ![React](https://img.shields.io/badge/React-70%25-61DAFB?style=for-the-badge&logo=react)
