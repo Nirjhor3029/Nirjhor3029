@@ -40,11 +40,11 @@ I'm Nirjhor from Bangladesh, I do content on Design and Development. I really en
 
 <div>
 ## 🧠 Skill Levels
+
 ![PHP](https://img.shields.io/badge/PHP-80%25-777BB4?style=for-the-badge&logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-80%25-FF2D20?style=for-the-badge&logo=laravel)
 ![React](https://img.shields.io/badge/React-70%25-61DAFB?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-60%25-61DAFB?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
- 
 </div>
